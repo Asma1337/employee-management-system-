@@ -8,20 +8,14 @@ It demonstrates basic database operations: creating tables, inserting data, quer
 Features
 
 Create database and table (employee)
-
 Insert multiple employee records
-
 Query employees by age, department, or salary
-
 Update and delete records
-
 Add new column (join_date)
-
 
 Table Structure
 
 Column	Type	Description
-
 emp_id	INT	Primary key
 emp_name	VARCHAR(50)	Employee name
 age	INT	Employee age
@@ -31,9 +25,8 @@ join_date	DATE	Joining date
 
 
 Author
-
 Asma Khalid –  SQL project created for practice and learning.
 
-Agar chaho, mai ab ye SQL script + ye README ko GitHub ready folder format me ready kar du — bas upload karna hai.
+
 
 Karu wo bhi?

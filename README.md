@@ -29,4 +29,3 @@ Asma Khalid –  SQL project created for practice and learning.
 
 
 
-Karu wo bhi?
